@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name= "Spiner_Gu">
+        <item name="청원구"></item>
+    <item name="상당구"></item>
+    <item name="흥덕구"></item>
+    <item name="서원구"></item></string-array>
+
+    <string-array name="Spiner_Chung_Won">
+        <item name="내덕동"></item>
+        <item name="내수읍"></item>
+        <item name="북이면"></item>
+        <item name="사천동"></item>
+        <item name="오근장동"></item>
+        <item name="오동동"></item>
+        <item name="오창읍"></item>
+        <item name="외남동"></item>
+        <item name="외평동"></item>
+        <item name="외하동"></item>
+        <item name="우암동"></item>
+        <item name="율량동"></item>
+        <item name="정북동"></item>
+        <item name="정상동"></item>
+        <item name="정하동"></item>
+        <item name="주성동"></item>
+        <item name="주중동"></item>
+    </string-array>
+
+    <string-array name="Spiner_Sang_Dang">
+        <item name="가덕면"></item>
+        <item name="금천동"></item>
+        <item name="남문로1가"></item>
+        <item name="남문로2가"></item>
+        <item name="남일면"></item>
+        <item name="남주동"></item>
+        <item name="낭성동"></item>
+        <item name="대성동"></item>
+        <item name="명암동"></item>
+        <item name="문의면"></item>
+        <item name="문화동"></item>
+        <item name="미원면"></item>
+        <item name="방서동"></item>
+        <item name="북문로1가"></item>
+        <item name="북문로2가"></item>
+        <item name="북문로3가"></item>
+        <item name="산성동"></item>
+        <item name="서문동"></item>
+        <item name="서운동"></item>
+        <item name="석교동"></item>
+        <item name="성안동"></item>
+        <item name="수동"></item>
+        <item name="영동"></item>
+        <item name="영운동"></item>
+        <item name="용담동"></item>
+        <item name="용암동"></item>
+        <item name="용정동"></item>
+        <item name="운동동"></item>
+        <item name="월오동"></item>
+        <item name="중앙동"></item>
+        <item name="지북동"></item>
+        <item name="탑동"></item>
+        <item name="평촌동"></item>
+    </string-array>
+
+    <string-array name="Spiner_Heng_Duk">
+        <item name="가경동"></item>
+        <item name="강내면"></item>
+        <item name="강서동"></item>
+        <item name="오송읍"></item>
+        <item name="남촌동"></item>
+        <item name="내곡동"></item>
+        <item name="동막동"></item>
+        <item name="문암동"></item>
+        <item name="복대동"></item>
+        <item name="봉명동"></item>
+        <item name="송정동"></item>
+        <item name="비하동"></item>
+        <item name="상신동"></item>
+        <item name="서촌동"></item>
+        <item name="석곡동"></item>
+        <item name="석소동"></item>
+        <item name="송절동"></item>
+        <item name="수의동"></item>
+        <item name="신대동"></item>
+        <item name="신봉동"></item>
+        <item name="신성동"></item>
+        <item name="신전동"></item>
+        <item name="신촌동"></item>
+        <item name="옥산면"></item>
+        <item name="외북동"></item>
+        <item name="운천동"></item>
+        <item name="원평동"></item>
+        <item name="정봉동"></item>
+        <item name="지동동"></item>
+        <item name="평동"></item>
+        <item name="향정동"></item>
+        <item name="현암동"></item>
+        <item name="화계동"></item>
+        <item name="휴암동"></item>
+
+    </string-array>
+
+    <string-array name="Spiner_Seo_Won">
+        <item name="개신동"></item>
+        <item name="남이면"></item>
+        <item name="모충동"></item>
+        <item name="미평동"></item>
+        <item name="분평동"></item>
+        <item name="사직동"></item>
+        <item name="사창동"></item>
+        <item name="산남동"></item>
+        <item name="성화동"></item>
+        <item name="개신동"></item>
+        <item name="죽림동"></item>
+        <item name="수곡동"></item>
+        <item name="장성동"></item>
+        <item name="장암동"></item>
+        <item name="현도면"></item>
+
+    </string-array>
+</resources>
